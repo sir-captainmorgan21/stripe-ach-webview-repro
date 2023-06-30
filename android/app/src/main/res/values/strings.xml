@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">stripe-ach-webview-repro</string>
+    <string name="title_activity_main">stripe-ach-webview-repro</string>
+    <string name="package_name">stripe.ach.webview.repro</string>
+    <string name="custom_url_scheme">stripe.ach.webview.repro</string>
+</resources>

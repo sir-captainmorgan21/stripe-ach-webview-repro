@@ -1,0 +1,7 @@
+{
+  "name": "stripe-ach-webview-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
